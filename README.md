@@ -8,7 +8,7 @@ scale them to get temperature in degrees Centigrade of Fahrenheit, pressure in P
 or feet. One program is the main (BMP180.ino) and one is a function library (HT16K33.ino for the HT16K33 led display driver.
 
 This I2C sensor requires only four connections to the microcontroller. The use of 4 four-digit bubble displays
-for data output is an ideal use for this ![display array}(https://github.com/kriswiner/HT16K33_Display_Driver). It also requires only four connections to the microcontroller while showing pressure, temperature, and altitude in meters and feet.
+for data output is an ideal use for this ![display array](https://github.com/kriswiner/HT16K33_Display_Driver). It also requires only four connections to the microcontroller while showing pressure, temperature, and altitude in meters and feet.
 
 ![]()
 
