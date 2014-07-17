@@ -10,7 +10,7 @@ or feet. One program is the main (BMP180.ino) and one is a function library (HT1
 This I2C sensor requires only four connections to the microcontroller. The use of 4 four-digit bubble displays
 for data output is an ideal use for this ![display array](https://github.com/kriswiner/HT16K33_Display_Driver). It also requires only four connections to the microcontroller while showing pressure, temperature, and altitude in meters and feet.
 
-![](https://d3s5r33r268y59.cloudfront.net/44691/products/thumbs/2014-07-14T06:48:09.060Z-BubbleDisplay.png.855x570_q85_pad_rcrop.png)
+![](https://d3s5r33r268y59.cloudfront.net/44691/products/thumbs/2014-07-15T00:56:27.193Z-Image2.png.855x570_q85_pad_rcrop.png)
 
 The main code averages over the pressure about sixteen times to get the best accuracy; this is quoted as 0.17 m
 in the data sheet. In practice, this is a little excessive. The averaging takes place while waiting for the
